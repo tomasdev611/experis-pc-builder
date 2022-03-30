@@ -1,0 +1,92 @@
+[
+	{
+		"id": 1,
+		"type": "cpu",
+		"brand": "AMD",
+		"cores": 64,
+		"model": "Ryzen Threadripper 3990X",
+		"base_speed": "2.9 GHz",
+		"price": 10280
+	},
+	{
+		"id": 2,
+		"type": "cpu",
+		"brand": "Intel",
+		"cores": 16,
+		"model": "Core i9-12900KF",
+		"base_speed": "3.2 GHz",
+		"price": 766.29
+	},
+	{
+		"id": 3,
+		"type": "cpu",
+		"brand": "AMD",
+		"cores": 32,
+		"model": "Ryzen Threadripper 3970X",
+		"base_speed": "3.7 GHz",
+		"price": 3891
+	},
+	{
+		"id": 4,
+		"type": "cpu",
+		"brand": "AMD",
+		"cores": 18,
+		"model": "Core i9-10980XE",
+		"base_speed": "3.0 GHz",
+		"price": 1400.91
+	},
+	{
+		"id": 5,
+		"type": "motherboard",
+		"brand": "ASRock",
+		"chipset": "AMD X570",
+		"model": "TRX40 CREATOR",
+		"socket_type": "sTRX4",
+		"price": 1605.69
+	},
+	{
+		"id": 6,
+		"type": "motherboard",
+		"brand": "ASUS",
+		"chipset": "AMD TRX40",
+		"model": "ROG ZENITH II EXTREME ALPHA",
+		"socket_type": "sTRX4",
+		"price": 2301
+	},
+	{
+		"id": 7,
+		"type": "motherboard",
+		"brand": "MSI",
+		"chipset": "AMD TRX40",
+		"model": "Creator TRX40",
+		"socket_type": "sTRX4",
+		"price": 568.87
+	},
+	{
+		"id": 8,
+		"type": "ram",
+		"brand": "G.Skill",
+		"size": "32 GB",
+		"model": "Trident Z5",
+		"ram_type": "DDR5",
+		"price": 908.42
+	},
+	{
+		"id": 9,
+		"type": "ram",
+		"brand": "XPG",
+		"size": "32 GB",
+		"model": "AX5U5200C3816G-DCLABK",
+		"ram_type": "DDR5",
+		"price": 299.99
+	},
+	{
+		"id": 10,
+		"type": "ram",
+		"brand": "Kingston",
+		"size": "16 GB",
+		"model": "HyperX",
+		"ram_type": "DDR4",
+		"price": 356.84
+	}
+]
